@@ -24,19 +24,13 @@ a:hover{
   margin:20px auto;
 }
 
-#heading,#footer{
+#heading{
   background-color: #2A2A2A;
   border: 1px solid #444444;
-  height:20px;
+  height:50px;
   padding:6px 0 24px 15px;
   margin-bottom:30px;
   overflow:hidden;
-}
-
-#footer{
-  height:10px;
-  margin:20px 0 20px 0;
-  padding:6px 0 11px 15px
 }
 
 div.nomargin{

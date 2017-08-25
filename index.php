@@ -66,7 +66,6 @@ HTML;
 ?>
         <div class="clear"></div>
     </div>
-    <div id="footer"></div>
   </div>
 <script src="http://localhost/local_CDN/jquery-3.1.1.min.js"></script>
 <script src="lightbox/js/jquery.lightbox-0.5.pack.js"></script>
