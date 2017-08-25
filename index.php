@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>My Image Gallery</title>
-  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="lightbox/css/jquery.lightbox-0.5.css">
   <link rel="stylesheet" href="css/main.css">
 </head>
 
@@ -68,6 +68,9 @@ HTML;
     </div>
     <div id="footer"></div>
   </div>
+<script src="http://localhost/local_CDN/jquery-3.1.1.min.js"></script>
+<script src="lightbox/js/jquery.lightbox-0.5.pack.js"></script>
+<script src="js/index.js"></script>
 </body>
 
 </html>
