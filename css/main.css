@@ -40,7 +40,7 @@ div.nomargin{
 .pic{
   float:left;
   margin:0 15px 15px 0;
-  border:5px solid white;
+  border:3px solid grey;
   width:200px;
   height:250px;
 }
